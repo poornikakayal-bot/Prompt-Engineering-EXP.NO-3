@@ -43,5 +43,6 @@ Missing Word Prompting:
 • "In photosynthesis, plants absorb sunlight to produce ____."
 
 OUTPUT:
+[prompt exp 3.pdf](https://github.com/user-attachments/files/27564749/prompt.exp.3.pdf)
 
 RESULT: 
